@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Gugi');
+
+body {
+  font-family: 'Gugi', cursive;
+  background: #c8d3d5;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  color: #a4b8c4;
+}
+
+.wrapper h1 {
+  font-size: 5rem;
+}
+
+.sub-wrapper input {
+  width: 15vw;
+  height: 5vh;
+  font-family: 'Gugi', cursive;
+  font-size: 2rem;
+  color: #6e8387;
+}
+
+.sub-wrapper .btn {
+  box-shadow: 0.5vw 1vh #6e8387;
+}
+
+.wrapper h2 {
+  font-size: 3rem;
+  color: #fcfafa;
+}
